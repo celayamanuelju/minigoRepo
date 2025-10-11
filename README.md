@@ -1,0 +1,2 @@
+# minigoRepo
+Mi primer repositorio, 
